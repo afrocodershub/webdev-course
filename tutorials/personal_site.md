@@ -1,5 +1,5 @@
-# LEARNING TO WALK
-### BEGINNING HTML AND CSS
+# LEARNING TO CRAWL
+## BEGINNING HTML AND CSS
 
 Okay so what are we doing here now, why are you here today.
 Let me guess, you want to be a **web developer** !!. Wow that's
@@ -12,7 +12,7 @@ be a developer and have taken the first step to search for a way,
 then in your mind , you are a web developer now.
 
 
-So you are walking down the street and you meet this new friend
+  So you are walking down the street and you meet this new friend
 who wants to know more about you. There is no time for you to
 tell him/her about all the cool stuff about you. And you want to,
 so you get an idea and think , "Why don't I give my new friend a link to
@@ -30,9 +30,10 @@ For any task to be completed , one needs tools. If a carpenter wants to
 build a chair, he needs tools like a hammer, chisel and other carpentry
 stuff. For a web developer you will also need tools.
 
-Now here are the tools you are gonna need for your website.
+Now here are the basic tools you are gonna need for your website.
 
-* computer
+* Text Editor
+* Browser
 * HyperText Markup Language
 * Cascading Style Sheet
 
@@ -40,3 +41,14 @@ And also you are gonna need materials like a carpenter would need wood.
 The materials you generally need is content ( text and media ). And you are
 going to use the above mentioned tools to process the content into a website
 and showcase it to the world through the internet.
+
+
+## Enough of the talk let's do the do !
+
+> " I hear and I forget. I see and I remember. I do and I understand. "
+> Confucius
+
+### 1. Getting Started
+
+Organization is necessary so we create a folder and name it
+**/personal_website** and create two new folders inside it and one **css** and the other **fonts**
