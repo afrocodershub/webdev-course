@@ -1,5 +1,5 @@
 # Afro Coders Hub
-## Learning Web Development Like A Boss
+ Learning Web Development Like A Boss
 ==========================================
 
   Welcome to the coolest web development training arena.
@@ -9,7 +9,7 @@ the web developer , you always dreamed of.
 Now its your chance to go wild and gain those skills that will help you
 build your dream website and land that dream job !!.
 
-#### Ready Set Go
+### Ready Set Go
 
 * [Building Your First Website with HTML/CSS](tutorials/personal_site.md)
 
@@ -32,4 +32,4 @@ and engagement⌨ to help its members become better developers💻 and find job
 opportunities too 💵-
 
 Send us an invitation request to join our slack platform to make your learning
-fun. <afrocoder@gmail.com>
+fun at <afrocoder@gmail.com>
