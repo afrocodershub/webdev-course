@@ -13,14 +13,7 @@ build your dream website and land that dream job !!.
 
 * [Building Your First Website with HTML/CSS](tutorials/personal_site.md)
 
-<<<<<<< HEAD
-=======
  
-
-
-
->>>>>>> c04e249e1f54117c5ddf19d417f2d80c281d6742
-
 
 ### May you not worry !!
   You have a wonderful family of awesome developers who will be happy to guide
