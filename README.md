@@ -1,6 +1,6 @@
 # Afro Coders Hub
  Learning Web Development Like A Boss
-==========================================
+---
 
   Welcome to the coolest web development training arena.
 We have created the best training content on the web to make you
@@ -12,15 +12,6 @@ build your dream website and land that dream job !!.
 ### Ready Set Go
 
 * [Building Your First Website with HTML/CSS](tutorials/personal_site.md)
-
-
-
-
-
-
-
-
-
 
 
 

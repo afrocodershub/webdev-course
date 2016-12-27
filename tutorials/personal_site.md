@@ -1,7 +1,7 @@
 # LEARNING TO CRAWL
 ## BEGINNING HTML AND CSS
 
-Okay so what are we doing here now, why are you here today.
+Okay so what are we doing here now , why are you here today ?.
 Let me guess, you want to be a **web developer** !!. Wow that's
 great news. I assure you that, you are at the right place and
 you will do just fine with the **Afro Coders Hub** family.
@@ -51,4 +51,4 @@ and showcase it to the world through the internet.
 ### 1. Getting Started
 
 Organization is necessary so we create a folder and name it
-**/personal_website** and create two new folders inside it and one **css** and the other **fonts**
+**personal_website/** and create two new folders inside it and one  **css/** and the other **fonts/**
