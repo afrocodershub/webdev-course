@@ -13,12 +13,7 @@ build your dream website and land that dream job !!.
 
 * [Building Your First Website with HTML/CSS](tutorials/personal_site.md)
 
-
-
-
-
-
-
+ 
 
 
 
@@ -32,4 +27,4 @@ and engagement⌨ to help its members become better developers💻 and find job
 opportunities too 💵-
 
 Send us an invitation request to join our slack platform to make your learning
-fun at <afrocoder@gmail.com>
+fun at <afrocoders@gmail.com>
