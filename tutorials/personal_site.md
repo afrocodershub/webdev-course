@@ -62,43 +62,7 @@ and save it into the **personal_website/** folder you created.
 Now open *index.html* and fill it with this code (your first code !!)
 
 ``` html
-<!DOCTYPE>
-  <html>
-  <head>
-    <title>afrocat is my name</title>
-  </head>
-  <body>
-    <header>
-      <h1> Afrocat </h1>
-      <p>
-        Welcome to my website !!!
-      </p>
-    </header>
-    <img src="img/" alt="my picture" />
-    <div class="bio">
-      Pellentesque et dignissim lorem, ac interdum ipsum.
-      Cras nec commodo lacus. Sed velit diam, ornare non
-      est vel, faucibus tempor nisl. Quisque massa velit,
-       laoreet nec fringilla a, maximus et nisi. Integer
-       justo mi, posuere a quam id, eleifend dapibus eros.
-       Proin sed libero dui. Nulla porttitor enim quis mi
-       imperdiet ullamcorper. Nulla ac orci blandit magna
-       rhoncus aliquam a et mi. Fusce ullamcorper, dui at
-       suscipit ornare, eros quam fermentum purus, id elem
-       entum ipsum purus eget libero. Duis nec justo ac mi
-       commodo finibus. Nunc dictum volutpat odio at iacul
-       is.
-    </div>
-    <div class="interest">
-      <h3> My skills and interest </h3>
-      <ul>
-        <li>Dancing</li>
-        <li>Taking pictures of my laptop</li>
-        <li>Creating websites</li>
-        <li>Reading Charles Bukowski</li>
-      </ul>
-    </div>
+<html>
 
-  </body>
-  </html>
+</html>
 ```
