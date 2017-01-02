@@ -1,0 +1,49 @@
+/* styling the website */
+
+body {
+  width: 900px;
+  margin: auto;
+  font-family: Helvetica, sans-serif;
+  color: #4d4d4d;
+  background: #fcfcfc;
+}
+
+.title {
+  font-style: oblique;
+  color: #f938bd;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.bio > p {
+  text-align: justify;
+  font-size: 16px;
+}
+
+.interest > ul {
+  text-align: justify;
+}
+
+.social {
+  margin: 40px 0;
+  text-align: center;
+}
+.social > a {
+  color: #fcfcfc;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 18px;
+  padding: 10px 50px;
+}
+
+#facebook {
+  background-color: #3b5998;
+}
+
+#twitter {
+  background-color: #2ebaff;
+}

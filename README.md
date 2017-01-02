@@ -3,7 +3,7 @@
 ---
 
   Welcome to the coolest web development training arena.
-We have created the best training content on the web to make you
+We have coalited the best training content on the web to make you
 the web developer , you always dreamed of.
 
 Now its your chance to go wild and gain those skills that will help you
@@ -11,7 +11,12 @@ build your dream website and land that dream job !!.
 
 ### Ready Set Go
 
-* [Building Your First Website with HTML/CSS](tutorials/personal_site.md)
+* [Frontend Web Developement with HTML/CSS/JS](#)
+* [Backend Web Development with Node.js](#)
+* [Website Design Principles](#)
+
+
+### All resources are open-sourced , meaning they are free to use.
 
  
 
